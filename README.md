@@ -7,7 +7,7 @@ Skills:
 Database Management: SQL - MONGO DB
 API Development and Testing: Postman - SoAP UI - Swegger - Kibana - OCP - Splunk
 CI/CD Tools: Jenkins - Maven
-Test Automation Tools: Selenium
+Test Automation Tools: Selenium <br>
 Web, android, ios testing and Omniture Test with Charles.
 
 
